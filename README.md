@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![https://solved.ac/profile/stnow](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![https://solved.ac/profile/stnow](http://mazassumnida.wtf/api/generate_badge?boj={stnow})](https://solved.ac/{stnow})
 <!--
 **jonghoon-dev/jonghoon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
